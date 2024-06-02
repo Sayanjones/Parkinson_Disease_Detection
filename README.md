@@ -63,13 +63,13 @@ CPU: Intel Core i5-8400 3.0 GHz or better
 
 ##### Language used & analysis requirements:
 
-Python
-Jupyter Notebook
-Numpy
-Pandas
-Matplotlib
-Seaborn
-Github
+Python<br>
+Jupyter Notebook<br>
+Numpy<br>
+Pandas<br>
+Matplotlib<br>
+Seaborn<br>
+Github<br>
 
 
 ##### System Architecture OR Block Diagram:
