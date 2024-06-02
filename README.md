@@ -89,8 +89,9 @@ In the realm of detecting Parkinson's disease, a Support Vector Machine (SVM) wi
 The data for detecting Parkinson's disease in our model was split into 70% for training and 30% for testing, which totaled to 59 data points. Of these, 55 individuals were accurately diagnosed with Parkinson's disease, resulting in a precision rate of 94.91%. This significant accuracy highlights the model's proficiency in precisely categorizing patients, demonstrating its potential as a dependable tool for Parkinson's disease detection.
 
 ### Result Analysis OR Screenshots:
-
-
+<img width="165" alt="image" src="https://github.com/Sayanjones/PD-detection/blob/main/Image/pd4.png">
+<img width="165" alt="image" src="https://github.com/Sayanjones/PD-detection/blob/main/Image/pd3.png">
+<img width="165" alt="image" src="https://github.com/Sayanjones/PD-detection/blob/main/Image/pd2.png">
 
 ## Standards Adopted
 
