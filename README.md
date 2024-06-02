@@ -1,18 +1,18 @@
 # Detection of Parkinson's Disease Using SVM Model
 
-## ABSTRACT
+## ABSTRACT:
 
 Utilizing voice-based markers can aid in identifying symptoms related to conditions like Parkinson's disease, a contemporary neurodegenerative disorder impacting around 7 million individuals globally, primarily adults. Annually, approximately 150 thousand new clinical diagnoses are conducted. Traditionally, the detection of Parkinson's disease has posed challenges, often pinpointing only select symptoms while overlooking others, depending on individual criteria. As the manifestation of motor impairments signifies the illness, this indicator can serve as a method for detecting and diagnosing Parkinson's disease. Conventional wisdom has led medical professionals to predominantly concentrate on specific symptoms tied to Parkinson's disease, potentially neglecting other crucial aspects. Through the utilization of distinct assessment scales, this indicator can be employed effectively for disease identification and diagnosis. This initiative provides substantial evidence supporting the use of supervised categorization, which proves valuable for diagnosing individuals with ailments such as diabetes and pulmonary fibrosis. Leveraging Support Vector Machine and Hypermetric Tuning, a remarkable accuracy of 94.91% was achieved when diagnosing pathological conditions.  
 
-## INTRODUCTION
+## INTRODUCTION:
 
 Parkinson's disease (PD) is characterized by the degeneration of dopaminergic neurons in the substantia nigra pars compacta in the midbrain, resulting in various symptoms such as communication difficulties, voice changes, and abnormalities in movement. Individuals with PD often experience dysarthria, a condition marked by muscle weakness, paralysis, and impaired coordination affecting breathing, speech, crying, and intonation. While the exact cause of Parkinson's remains unknown, research suggests a complex interplay of genetic, biological, and environmental factors contributing to the diversity of symptoms and the disease's progression over time. This inherent variability poses challenges for clinical trials seeking effective treatment endpoints and uncertainties regarding patients' quality of life. Recent studies have also highlighted alterations in the peripheral immune system of PD patients, with emerging evidence implicating the protein α-synuclein, the enteric nervous system, and the gut-brain axis in the disease's development, hinting that Parkinson's may originate from peripheral sources. Identifying biomarkers that can predict PD progression is critical, given the variability in symptoms and disease trajectory, which can evolve over decades. Therefore, the development of more refined diagnostic tools is imperative to address the evolving symptomatology associated with PD. Speech impairments in PD are characterized by diminished volume, changes in pitch and quality, decreased articulation clarity, slow speech rate, variable loudness, indistinct consonants, and a hoarse voice (dysphonia). Given the diverse voice-related symptoms, leveraging voice analysis through non-invasive methods like mobile devices, in conjunction with Vector Support Machines and Hypermetric Tuning, holds promise for improved PD detection.
 
-## LITERATURE REVIEW
+## LITERATURE REVIEW:
 
 The foundation of this project is Python, along with important libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. These tools enable seamless manipulation, analysis, and visualization of data, as well as the implementation of SVM machine learning models for extracting robust insights.
 
-### Python Libraries
+### Python Libraries:
 
 1. Pandas: An efficient library for Python designed for data manipulation and analysis, offering tools for working with structured data effectively.
 2. NumPy: A key package for numerical computations in Python, providing support for large arrays and matrices, along with a set of mathematical functions.
@@ -21,11 +21,11 @@ The foundation of this project is Python, along with important libraries such as
 5. Scikit-learn: A flexible Python library focused on machine learning tasks, with tools for data analysis and mining, encompassing various supervised and unsupervised learning algorithms.
 
 
-## Problem Statement / Requirement Specifications
+## Problem Statement / Requirement Specifications:
 
 This project involves training a support vector machine model with hyperparameter optimization to effectively distinguish between patients with Parkinson's disease and those without. By utilizing Scikit-learn, the model is adjusted to enhance its performance, facilitating the accurate identification and differentiation of individuals affected by Parkinson's from healthy individuals.
 
-### Project Planning
+### Project Planning:
 
 1. Establishing Goals: Clearly define the objectives of the project, such as creating a support vector machine model to categorize patients with Parkinson's disease.
 
@@ -49,7 +49,7 @@ This project involves training a support vector machine model with hyperparamete
     
 11. Monitoring and Upkeep: Continuously observe the model's performance in real-world scenarios and update it regularly to adapt to evolving data trends or requirements.
 
-### System Design
+### System Design:
 
 #### Design Constraints
 
@@ -76,11 +76,11 @@ Github
 
 
 
-## Implementation
+## Implementation:
 
 A Support Vector Machine (SVM) serves as a supervised machine learning technique primarily utilized for classification and regression assignments. Its operation involves identifying the most suitable hyperplane within a complex-dimensional environment to segregate distinct class data points with maximum spacing, thus enhancing the model's generalization capacity. SVMs excel in managing both linear and non-linear datasets by employing kernel functions, which transform input data into intricate feature spaces. This adaptability enables SVMs to define intricate decision boundaries accurately and classify data effectively. SVMs are resilient against overfitting, notably in high-dimensional scenarios, and can efficiently process datasets with numerous features. Due to these attributes, SVMs find extensive applications across diverse domains such as bioinformatics, image recognition, text categorization, and financial forecasting.
 
-### Methodology OR Proposal
+### Methodology OR Proposal:
 
 In the realm of detecting Parkinson's disease, a Support Vector Machine (SVM) with fine-tuning of parameters is employed as a supervised machine learning technique to accurately differentiate between individuals with Parkinson's disease and those who are unaffected. By adjusting parameters such as the kernel function selection, regularization parameter, and kernel coefficient, the SVM's performance is optimized to effectively distinguish between the two groups. This process of optimization aims to maximize the model's predictive accuracy while minimizing the risk of overfitting, ensuring a robust and dependable identification of Parkinson's disease using input features extracted from pertinent data sources like clinical evaluations or biomedical measurements.
 
@@ -116,7 +116,7 @@ The data for detecting Parkinson's disease in our model was split into 70% for t
 
 10.Feedback Mechanism: Establish mechanisms for gathering feedback from stakeholders, users, and team members throughout the design and development lifecycle to iterate and improve upon the project continuously.
 
-###  Coding Standards
+###  Coding Standards:
 
 1.Naming Conventions: Use descriptive and meaningful names for variables, functions, classes, and other identifiers. Follow a consistent naming convention, such as camelCase or snake_case.
 
