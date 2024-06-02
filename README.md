@@ -93,9 +93,9 @@ The data for detecting Parkinson's disease in our model was split into 70% for t
 <img width="165" alt="image" src="https://github.com/Sayanjones/PD-detection/blob/main/Image/pd3.png">
 <img width="165" alt="image" src="https://github.com/Sayanjones/PD-detection/blob/main/Image/pd2.png">
 
-## Standards Adopted
+## Standards Adopted:
 
-### Design Standards :
+### Design Standards 
 
 1.User-Centric Approach: Prioritize user needs and preferences to create intuitive and user-friendly interfaces or experiences.
 
@@ -117,7 +117,7 @@ The data for detecting Parkinson's disease in our model was split into 70% for t
 
 10.Feedback Mechanism: Establish mechanisms for gathering feedback from stakeholders, users, and team members throughout the design and development lifecycle to iterate and improve upon the project continuously.
 
-###  Coding Standards:
+###  Coding Standards
 
 1.Naming Conventions: Use descriptive and meaningful names for variables, functions, classes, and other identifiers. Follow a consistent naming convention, such as camelCase or snake_case.
 
@@ -160,7 +160,7 @@ Performance Optimization: Optimize code performance by minimizing computational 
 11. Acceptance Testing: Conduct acceptance testing with stakeholders to validate that the software meets specified requirements and business goals. Obtain sign-off from stakeholders before deploying the software to production.
 
 
-## Conclusion and Future Scope
+## Conclusion and Future Scope:
 
 ### Conclusion
 
@@ -172,7 +172,7 @@ Looking ahead, further refinement and validation of the model are essential to e
 
 In summary, our Parkinson's disease detection model represents a significant step forward in leveraging machine learning for medical diagnostics. With its impressive accuracy and potential impact on patient care and research, the model stands as a testament to the transformative potential of data-driven approaches in healthcare. By continuing to innovate and collaborate, we can harness the full potential of this model to advance our understanding and management of Parkinson's disease and improve the lives of those affected by it.
 
-###	Future Scope:
+###	Future Scope
 
 The future scope for our Parkinson's disease detection model, which leverages Support Vector Machine (SVM) with hyperparameter tuning to achieve an impressive accuracy of 94.91% with a dataset comprising 59 data points, holds immense potential for further advancement and impact. Some avenues for future exploration and enhancement include:
 
@@ -195,7 +195,7 @@ The future scope for our Parkinson's disease detection model, which leverages Su
 By pursuing these avenues for future scope, our Parkinson's disease detection model has the potential to become a valuable tool for early diagnosis, personalized treatment, and improved management of Parkinson's disease, ultimately benefiting patients, healthcare providers, and society as a whole.
 
 
-## REFERENCES
+## REFERENCES:
 
 1)https://www.kaggle.com/datasets/sagarbapodara/Parkinson's-csv
 
