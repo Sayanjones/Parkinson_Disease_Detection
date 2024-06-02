@@ -73,7 +73,7 @@ Github
 
 
 ##### System Architecture OR Block Diagram:
-
+"https://github.com/Sayanjones/PD-detection/blob/main/Image/pd-detect.png"
 
 
 ## Implementation:
