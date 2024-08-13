@@ -53,14 +53,6 @@ This project involves training a support vector machine model with hyperparamete
 
 #### Design Constraints
 
-##### Hardware requirements:
-
-Memory: 8 GB RAM
-Free Storage: 4 GB (SSD Recommended)
-Screen Resolution: 1920 x 800
-OS: Windows 10 (64-bit)
-CPU: Intel Core i5-8400 3.0 GHz or better
-
 ##### Language used & analysis requirements:
 
 Python<br>
