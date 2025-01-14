@@ -1,4 +1,4 @@
-# Detection of Parkinson's Disease Using SVM Model
+# Parkinson's Disease Detection 
 
 ## ABSTRACT:
 
